@@ -1,10 +1,19 @@
 {
+  "name": "RSS Fetcher",
+  "version": "0.1",
   "manifest_version" : 2,
-  "name": "Hello World!",
-  "version": "1.0",
-  "description": "My first Chrome extension.",
-  "browser_action" : {
-	"default_icon" : "link.png", 
-	"default_popup" : "page.html"
+  "description": "Keep up with the latest from [insert web site here].",
+
+  "content_scripts": [
+    {
+      "matches": ["http://*/*"],
+      "js": ["jquery-1.7.2.min.js","content.js"],
+      "run_at": "document_start"
+    }
+  ],
+        "browser_action": {
+    "default_icon": "link.png",
+    "default_title": "Spanish Dictionary Word Reader",
+    "default_popup": "page.html"
   }
 }
