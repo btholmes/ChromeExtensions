@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a2ff05e6-612e-48fe-9126-1092d9aec48e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpanishDict" afterPath="$PROJECT_DIR$/SpanishDict" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/manifest.json" afterPath="$PROJECT_DIR$/HelloWorld/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/page.html" afterPath="$PROJECT_DIR$/HelloWorld/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/page.js" afterPath="$PROJECT_DIR$/HelloWorld/page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ChromeExtensions.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -339,12 +337,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484924592581</updated>
-      <workItem from="1484924594713" duration="368000" />
+      <workItem from="1484924594713" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="368000" />
+    <option name="totallyTimeSpent" value="823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
